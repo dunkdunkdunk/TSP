@@ -6,6 +6,11 @@
   --color-red: #d61402;
 }
 
+.filters .dropdown-menu {
+  width: 100%;
+  text-align: center;
+}
+
 #one {
   font-size: 60px;
   text-shadow: 5px 0px 5px white;
