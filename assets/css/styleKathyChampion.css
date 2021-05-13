@@ -7,6 +7,7 @@
 }
 
 .filters .dropdown-menu {
+  text-align: center;
   right: auto;
   left: 50%;
   -webkit-transform: translate(-50%, 0);
@@ -595,7 +596,6 @@ header .navbar {
   );
   background-size: 250% 250%;
   animation: gradient 3s ease infinite;
-  border-radius: 5px;
 }
 
 @keyframes gradient {
@@ -665,7 +665,7 @@ footer .inner-content p a {
   color: #121212;
   display: inline-block;
   margin: 0px 10px;
-  transition: all 0.3s;
+  transition: all 0.2s;
   cursor: pointer;
 }
 
